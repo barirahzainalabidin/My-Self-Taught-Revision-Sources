@@ -1,9 +1,6 @@
 # My-Self-Taught-Revision-Sources
 
 
-# My Online Learning / Self Taught 
-
-
 DataCamp - https://www.datacamp.com/
 
 Real Python - https://realpython.com/
