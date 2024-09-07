@@ -17,7 +17,7 @@ Kaggle - https://www.kaggle.com/
 
 Microsoft learn - https://learn.microsoft.com/en-us/training/
 
-Edx edu learning online - https://www.edx.org/
+Edx - https://www.edx.org/
 
 Intel Membership - https://www.intel.com/content/www/us/en/developer/topic-technology/artificial-intelligence/training/course-deep-learning.html
 
