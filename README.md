@@ -21,4 +21,4 @@ Edx edu learning online - https://www.edx.org/
 
 Intel Membership - https://www.intel.com/content/www/us/en/developer/topic-technology/artificial-intelligence/training/course-deep-learning.html
 
-Nvida Membership - https://www.nvidia.com/en-us/research/ai-playground/
+Nvidia Membership - https://www.nvidia.com/en-us/research/ai-playground/
